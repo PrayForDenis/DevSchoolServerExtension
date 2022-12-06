@@ -1,0 +1,17 @@
+D:\Games\C#\DevSchoolServerExtension\DevSchoolServerExtension\bin\Debug\DevSchoolServerExtension.dll
+D:\Games\C#\DevSchoolServerExtension\DevSchoolServerExtension\bin\Debug\DevSchoolServerExtension.pdb
+D:\Games\C#\DevSchoolServerExtension\DevSchoolServerExtension\bin\Debug\DocsVision.Platform.StorageServer.Data.dll
+D:\Games\C#\DevSchoolServerExtension\DevSchoolServerExtension\bin\Debug\DocsVision.Platform.StorageServer.dll
+D:\Games\C#\DevSchoolServerExtension\DevSchoolServerExtension\bin\Debug\DocsVision.Platform.StorageServer.Runtime.dll
+D:\Games\C#\DevSchoolServerExtension\DevSchoolServerExtension\bin\Debug\DocsVision.Platform.Xml.Schemas.dll
+D:\Games\C#\DevSchoolServerExtension\DevSchoolServerExtension\bin\Debug\DocsVision.Platform.dll
+D:\Games\C#\DevSchoolServerExtension\DevSchoolServerExtension\bin\Debug\DocsVision.Platform.ObjectManager.dll
+D:\Games\C#\DevSchoolServerExtension\DevSchoolServerExtension\bin\Debug\DocsVision.Platform.Xml.Schemas.XmlSerializers.dll
+D:\Games\C#\DevSchoolServerExtension\DevSchoolServerExtension\obj\Debug\DevSchoolServerExtension.csproj.AssemblyReference.cache
+D:\Games\C#\DevSchoolServerExtension\DevSchoolServerExtension\obj\Debug\DevSchoolServerExtension.csproj.CoreCompileInputs.cache
+D:\Games\C#\DevSchoolServerExtension\DevSchoolServerExtension\obj\Debug\DevSchoolServerExtension.csproj.CopyComplete
+D:\Games\C#\DevSchoolServerExtension\DevSchoolServerExtension\obj\Debug\DevSchoolServerExtension.dll
+D:\Games\C#\DevSchoolServerExtension\DevSchoolServerExtension\obj\Debug\DevSchoolServerExtension.pdb
+D:\Games\C#\DevSchoolServerExtension\DevSchoolServerExtension\bin\Debug\DevSchoolServerExtension.dll.config
+D:\Games\C#\DevSchoolServerExtension\DevSchoolServerExtension\bin\Debug\Newtonsoft.Json.dll
+D:\Games\C#\DevSchoolServerExtension\DevSchoolServerExtension\bin\Debug\Newtonsoft.Json.xml
